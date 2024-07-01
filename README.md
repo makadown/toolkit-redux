@@ -7,3 +7,6 @@ Proyecto para conocer Redux Toolkit + React Redux
 
 - https://redux-toolkit.js.org/introduction/getting-started
 - https://redux-toolkit.js.org/tutorials/quick-start
+- https://redux.js.org/usage/writing-logic-thunks
+
+
